@@ -20,7 +20,7 @@ body {
 }
 
 .logo::before {
-  content: url("./images/triangle.png");
+  content: url("../images/triangle.png");
   position: absolute;
   left: 151px;
   top: -1px;
@@ -58,14 +58,14 @@ a {
 }
 
 .first::before {
-  content: url("./images/circle.png");
+  content: url("../images/circle.png");
   position: absolute;
   left: -150px;
   top: 170px;
 }
 
 .first::after {
-  content: url("./images//square.png");
+  content: url("../images//square.png");
   position: absolute;
   top: 500px;
 }
@@ -97,7 +97,7 @@ a {
 }
 
 .phone_form::after {
-  content: url("./images//triangletwo.png");
+  content: url("../images//triangletwo.png");
   position: absolute;
   left: 450px;
   top: 360px;
@@ -133,14 +133,14 @@ input::placeholder {
 }
 .cow::before {
   position: absolute;
-  content: url("./images//circle.png");
+  content: url("../images//circle.png");
   z-index: 999;
   left: 15px;
 }
 
 .cow::after {
   position: absolute;
-  content: url("./images//triangleup.png");
+  content: url("../images//triangleup.png");
   z-index: 999;
   top: 450px;
   left: 480px;
@@ -164,14 +164,14 @@ input::placeholder {
 }
 
 .about::before {
-  content: url("./images//triangleleft.png");
+  content: url("../images//triangleleft.png");
   position: absolute;
   right: 1400px;
   top: 100px;
 }
 
 .about::after {
-  content: url("./images//square.png");
+  content: url("../images//square.png");
   position: absolute;
   padding-left: 1400px;
 }
@@ -180,11 +180,11 @@ input::placeholder {
 }
 
 .aboutUs__title::before {
-  content: url("./images//circle.png");
+  content: url("../images//circle.png");
 }
 
 .aboutUs__title::after {
-  content: url("./images//triangle.png");
+  content: url("../images//triangle.png");
   position: absolute;
 }
 .aboutUs__title {
@@ -227,12 +227,12 @@ input::placeholder {
 }
 
 .lamp::before {
-  content: url("./images//circle.png");
+  content: url("../images//circle.png");
   position: absolute;
 }
 
 .lamp::after {
-  content: url("./images//bigsquare.png");
+  content: url("../images//bigsquare.png");
   position: absolute;
   left: 59px;
   bottom: 30px;
@@ -247,7 +247,7 @@ input::placeholder {
 }
 
 .about__block::after {
-  content: url("./images//circle.png");
+  content: url("../images//circle.png");
   position: absolute;
   padding-left: 550px;
 }
@@ -259,7 +259,7 @@ input::placeholder {
 }
 
 .aboutUs__one::before {
-  content: url("./images/верходин.png");
+  content: url("../images/верходин.png");
 }
 .aboutUs__two {
   position: relative;
@@ -269,11 +269,11 @@ input::placeholder {
 }
 
 .aboutUs__two::before {
-  content: url("./images/верхдва.png");
+  content: url("../images/верхдва.png");
 }
 
 .aboutUs__two::after {
-  content: url("./images/square.png");
+  content: url("../images/square.png");
   position: absolute;
   padding-left: 35px;
 }
@@ -285,7 +285,7 @@ input::placeholder {
 }
 
 .aboutUs__three::before {
-  content: url("./images/верхтри.png");
+  content: url("../images/верхтри.png");
 }
 
 .about {
@@ -303,13 +303,13 @@ input::placeholder {
   position: relative;
 }
 .underostankino::before {
-  content: url("./images/circle.png");
+  content: url("../images/circle.png");
   position: absolute;
   bottom: 180px;
 }
 
 .ourPartners::after {
-  content: url("./images/triangle.png");
+  content: url("../images/triangle.png");
   position: absolute;
   left: -100px;
   bottom: 150px;
@@ -322,7 +322,7 @@ input::placeholder {
 }
 
 .ourPartners__title::after {
-  content: url("./images/circle.png");
+  content: url("../images/circle.png");
   position: absolute;
   width: 25px;
 }
@@ -360,7 +360,7 @@ input::placeholder {
 }
 
 .ourPartners__list::after {
-  content: url("./images/circle.png");
+  content: url("../images/circle.png");
   position: absolute;
   right: -85px;
   top: 400px;
@@ -386,7 +386,7 @@ input::placeholder {
   position: relative;
 }
 .undmiratorg::after {
-  content: url("./images/triangleleft.png");
+  content: url("../images/triangleleft.png");
   position: absolute;
   right: 50px;
   bottom: 50px;
@@ -402,7 +402,7 @@ input::placeholder {
 }
 
 .udercosmos::before {
-  content: url("./images/triangle.png");
+  content: url("../images/triangle.png");
   position: absolute;
   bottom: 110px;
   padding-left: 130px;
